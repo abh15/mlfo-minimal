@@ -9,13 +9,13 @@ Docker v19.03.13
 Docker compose v1.27.4
 
 ## Usage
-Clone the repo
-
-Setup modelrepo db
+### Setup model repo db
 
 `docker-compose up`
 
 `docker exec -it db bash -c "mysql -uroot -pmlfo1234 modelrepo < modelrepo.sql"`
+
+### Run
 
 For edge use case:
 
