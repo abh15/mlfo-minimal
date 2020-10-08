@@ -1,0 +1,4 @@
+source: oran.du.userX.analytics
+sink: oran.cucp.qosApp
+model:
+ usecase: cloud
