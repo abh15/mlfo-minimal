@@ -2,11 +2,11 @@
 This work is done as part of ITU AI/ML 5G Challenge 2020
 
 ## Requires
-go v1.14.5
+[go](https://golang.org/doc/install) v1.14.5
 
-Docker v19.03.13
+[Docker](https://docs.docker.com/get-docker/) v19.03.13
 
-Docker compose v1.27.4
+[Docker compose](https://docs.docker.com/compose/install/#install-compose)  v1.27.4
 
 ## Usage
 ### Setup model repo db
